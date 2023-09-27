@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cementerio
+comment1.params=ficha
+comment1.target=void\ agregarFicha(Ficha)
+comment2.params=
+comment2.target=boolean\ contieneMula()
+comment3.params=
+comment3.target=Ficha\ obtenerFicha()
+numComments=4
